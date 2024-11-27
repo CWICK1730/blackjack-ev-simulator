@@ -1,4 +1,0 @@
-echo "streamlit" > requirements.txt
-git add .
-git commit -m "Initial commit"
-git push
